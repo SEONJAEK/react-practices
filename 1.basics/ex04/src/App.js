@@ -3,4 +3,5 @@ const App = function() {
     App.textContent = 'Hello World';
     return App;
 }
-export{App}
+
+export { App }

@@ -1,5 +1,5 @@
-import appCss from '.App.css';
-import {App} from './App.js';
+// import './App.css';
+import { App } from './App.js';
 
 document
     .getElementById('root')
