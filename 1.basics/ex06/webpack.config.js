@@ -10,6 +10,10 @@ module.exports = {
     },
     module: {
         rules: [{
+            test: /\.js$/i,
+            exclude: /node_modules/,
+            use :['babel-loader']
+        },{
             test: /\.(sa|sc|c)ss$/i,  //.css로 끝난다  i:ignore 대문자 소문자
             use: ['style-loader','css-loader', 'sass-loader']
         },{
