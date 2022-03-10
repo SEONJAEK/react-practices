@@ -10,6 +10,7 @@ const App = function() {
             <h1>{message}</h1>;
         </div>
     );  
+    );  
 }
 
 export { App }
