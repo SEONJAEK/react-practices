@@ -2,9 +2,12 @@ ex02:Component Styling (Working with UI)
 
 01. Inline Styling
 02. Normal CSS(css loader options : {module:false})
+    -$ npm run debug src=03 css-modules=false
 03. Normal CSS(css loader options : {module:true})
+    -$ npm run debug src=03 css-modules=true
 04. CSS Module(css loader options : {module:true})
-05. 
+    -$ npm run debug src=04 css-modules=true
+05. SACC & SCSS
 06. 
 07. 
 08. 
