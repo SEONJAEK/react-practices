@@ -7,10 +7,13 @@ ex02:Component Styling (Working with UI)
     -$ npm run debug src=03 css-modules=true
 04. CSS Module(css loader options : {module:true})
     -$ npm run debug src=04 css-modules=true
-05. SACC & SCSS(css loader options : {module:true}
-06. 
-07. 
-08. 
+05.  SACC & SCSS(css loader options : {module:true}
+--------------------------------------------------
+CSS in JS(Style Component), Less & Styleable
+--------------------------------------------------
+06. Font Awesome: Working with UI I
+07. React Modal: Working with UI II
+
 
 
 1. 설치 
