@@ -25,10 +25,11 @@ babel.config.json 설정
 webpack.config.json
 
 3. 스크립트 추가하기
-"scripts":{
-    "debug": "npx webpack serve --progress --mode development --env",
-    "build":"npx webpack"
-}
+ "scripts": {
+    "debug": "npx webpack serve --config config/webpack.config.js --progress --mode development --env",
+    "build": "npx webpack"
+  },
+
 
 4. 실행
 $npm run debug src={01|02|03|04|05|06|..}
